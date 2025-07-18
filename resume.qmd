@@ -6,7 +6,7 @@ title: Quade Hafen's CV
 Data Scientist in Training, Student of Machine Learning Engineering, AI Enthusiast.
 
 <div id="webaddress">
-<a href="https://quadeatschool.github.io/">https://quadeatschool.github.io/</a>
+<a href="mailto:quade.hafen@gmail.com">quade.hafen@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Quade_Hafen">My wikipedia page</a>
 </div>
 
