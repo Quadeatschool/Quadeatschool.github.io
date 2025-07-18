@@ -13,7 +13,7 @@ website:
     left: "Quade Hafen 2024©"
     right: 
       - icon: linkedin
-        href: www.linkedin.com/in/quade-hafen-8689932a3
+        href: https://www.linkedin.com/in/quade-hafen-8689932a3
 
   navbar:
     background: primary
