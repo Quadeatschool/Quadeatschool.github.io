@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Quade Hafen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Quade Hafen
+Data Scientist in Training, Student of Machine Learning Engineering, AI Enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://quadeatschool.github.io/">https://quadeatschool.github.io/</a>
+| <a href="http://en.wikipedia.org/wiki/Quade_Hafen">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Enjoying standing in the shadows of giants
 
 ### Specialized in
 
@@ -27,29 +27,17 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2020`
+__Las Vegas Academy of Nevada High School__.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`April 2023 - now`
+__Brigham Young University Idaho__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2019`
+Eagle Scout, *Boy Scouts of America*, USA
 
 ## Publications
 
@@ -57,33 +45,28 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
+`2023`
+Hafen Q, The Art of Haven
 
 etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+pending....
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017-2020`
+__City of Henderson__, Henderson, Nevada
 
-- Warden
-- Minted coins
+- Life Guard
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2010-now`
+__Irrigation Manager__, Hafen Nursery, Nevada
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2025 -->
